@@ -702,9 +702,9 @@ button.next {
     /* font-weight: 600; */
 }
 #main-7-2-4{
-    width: 10%;
+    width: auto;
     height: auto;
-    /* display: flex; */
+    display: flex;
     flex-direction: column;
     gap: 20px;
     padding-left: 0;
@@ -729,6 +729,7 @@ button.next {
     font-weight: 600;
     cursor: pointer;
     margin-top: 40px;
+    padding: 10px;
 }
 
 #main-7-2-4 button:hover i{
